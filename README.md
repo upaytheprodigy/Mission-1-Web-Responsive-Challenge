@@ -43,4 +43,4 @@ Fitur utama:
 - **Instagram:** [https://www.instagram.com/upayprasetyo_/)  
 
 ---
-✍️ Dibuat oleh **Revaldi Ardhi Prasetyo**  
+Dibuat oleh **Revaldi Ardhi Prasetyo**  
